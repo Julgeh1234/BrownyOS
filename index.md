@@ -10,28 +10,26 @@ I am not going to adhere to anything in this repository.
 Much fun with it!
 
 
-### Markdown
+### Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You can install BrownyOS as an iso-Image via BalenaEtcher (or others). 
+The Files are listed in the GitHub branch [OSFiles](https://github.com/Julgeh1234/BrownyOS/tree/OSFiles)
+There is also a VirtualBox Image available. [Download VirtualBox](www.virtualbox.org/wiki/Downloads)
 
+As Iso-Image:
+
+1. Dowload the [Iso-Image of BrownyOS]().
+2. Open BalenaEtcher and choose your Image and the drive you want. !!!Recommendation: Use an USB-Stick, because you will first install the live Version.
+3. Click 'Flash' and wait a few minutes.
+4. After it finished put the stick or drive in your computer and boot from it.
+5. Login: Servername: browny-desktop Username: browny Password: ChangeMe
+6. Start the desktop.
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+startx
 ```
-
+7. As you can see open the file you will find on the desktop and install BrownyOS.
+8. Enjoy the user experience!
+9. 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
