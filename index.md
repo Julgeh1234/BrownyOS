@@ -1,7 +1,7 @@
 ## BrownyOS
 
 BrownyOS is a Linux distribution running from ubuntu with no recommended software. (Chromium is installed.)
-The CLI is running with ubuntu server 64-bit.
+The CLI is running with ubuntu server 18.04.6 64-bit. (You can upgrade it. Read more at 'Installation'.)
 This operating system publishesd especially with an easy handling for users and a renewed design of Linux.
 You can work with it as a desktop computer, but also mount this for programming.
 Everybody can use it. There are no hidden programms or other files in it.
@@ -9,7 +9,6 @@ You are not allowed to sell any articles from here.
 I am not going to adhere to anything in this repository.
 Much fun with it!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
