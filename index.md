@@ -1,6 +1,13 @@
 ## BrownyOS
 
-You can use the [editor on GitHub](https://github.com/Julgeh1234/BrownyOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+BrownyOS is a Linux distribution running from ubuntu with no recommended software. (Chromium is installed.)
+The CLI is running with ubuntu server 64-bit.
+This operating system publishesd especially with an easy handling for users and a renewed design of Linux.
+You can work with it as a desktop computer, but also mount this for programming.
+Everybody can use it. There are no hidden programms or other files in it.
+You are not allowed to sell any articles from here.
+I am not going to adhere to anything in this repository.
+Much fun with it!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
